@@ -1,0 +1,36 @@
+## Interface: 30300
+## Title: |cffffffffWhoDAT|r by |cff3399ffBelmont Labs|r
+## Notes: Tracks character stats, gear, money, reputation, auction house, and more. Export data for external visualization.
+## Author: Belmont Labs
+## Version: 3.0.0
+## SavedVariablesPerCharacter: WhoDatDB, WhoDAT_AuctionDB, WhoDAT_AuctionMarketTS
+## OptionalDeps: Blizzard_AuctionUI, Blizzard_TokenUI
+
+config.lua
+utils.lua
+events.lua
+core.lua
+tracker_stats.lua
+tracker_containers.lua
+tracker_item_lifecycle.lua
+tracker_loot.lua
+tracker_quests.lua
+tracker_deaths.lua
+tracker_combat.lua
+tracker_achievements.lua
+tracker_auction.lua
+tracker_social.lua
+tracker_lockouts.lua
+character_events.lua
+graphs.lua
+ui_main.lua
+ui_widgetmode.lua
+widget_background_ui.lua
+export.lua
+chunked_export.lua
+export_metadata.lua
+export_progress_ui.lua
+memory_management.lua
+diagnostics.lua
+diagnostic_export.lua
+profiler.lua
