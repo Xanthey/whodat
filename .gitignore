@@ -1,0 +1,10 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
+
+# WoW runtime files
+*.bak
