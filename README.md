@@ -13,7 +13,9 @@
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Data Export](#-data-export) • [WhoDASH](#-whodash-dashboard)
 
 </div>
-
+<p align="center">
+  <img src="readmefiles/in_use.png" alt="In Use" />
+</p>
 ---
 
 ## 🎯 What is WhoDAT?
@@ -21,7 +23,13 @@
 **WhoDAT** (Who's Doing All This?) is a World of Warcraft addon that captures **every meaningful event** in your character's journey. From gold fluctuations and quest completions to combat statistics and auction house activity, WhoDAT provides a comprehensive, event-sourced data layer for your WoW experience.
 
 Unlike traditional addons that only show current state, WhoDAT maintains **complete historical records** of your character's progression, enabling powerful analytics through the companion [WhoDASH](#-whodash-dashboard) web dashboard.
-
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="top"><b>Graphs</b><br><img src="readmefiles/graphs.png" width="400" alt="Graphs" /></td>
+    <td align="center" valign="top"><b>Settings</b><br><img src="readmefiles/settings.png" width="400" alt="Settings" /></td>
+    <td align="center" valign="top"><b>Widget Mode</b><br><img src="readmefiles/widget_mode.png" width="400" alt="Widget Mode" /></td>
+  </tr>
+</table>
 ---
 
 ## ✨ Features
